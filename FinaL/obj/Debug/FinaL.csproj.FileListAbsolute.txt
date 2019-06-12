@@ -1,0 +1,10 @@
+C:\Users\L_Law\source\repos\FinaL\FinaL\bin\Debug\FinaL.exe.config
+C:\Users\L_Law\source\repos\FinaL\FinaL\bin\Debug\FinaL.exe
+C:\Users\L_Law\source\repos\FinaL\FinaL\bin\Debug\FinaL.pdb
+C:\Users\L_Law\source\repos\FinaL\FinaL\obj\Debug\FinaL.csprojAssemblyReference.cache
+C:\Users\L_Law\source\repos\FinaL\FinaL\obj\Debug\FinaL.Form1.resources
+C:\Users\L_Law\source\repos\FinaL\FinaL\obj\Debug\FinaL.Properties.Resources.resources
+C:\Users\L_Law\source\repos\FinaL\FinaL\obj\Debug\FinaL.csproj.GenerateResource.cache
+C:\Users\L_Law\source\repos\FinaL\FinaL\obj\Debug\FinaL.csproj.CoreCompileInputs.cache
+C:\Users\L_Law\source\repos\FinaL\FinaL\obj\Debug\FinaL.exe
+C:\Users\L_Law\source\repos\FinaL\FinaL\obj\Debug\FinaL.pdb
